@@ -300,7 +300,7 @@
             opLink: null,
             rulesLink: null,
             themeLink: null,
-            fbLink: https://www.facebook.com/groups/lightsidecity/,
+            fbLink: null,
             youtubeLink: null,
             website: null,
             intervalMessages: [],
